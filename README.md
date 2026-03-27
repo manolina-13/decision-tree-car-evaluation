@@ -2,8 +2,6 @@
 
 This project presents an end-to-end implementation of Decision Tree classification on the `car_evaluation.csv` dataset. The notebook covers data preparation, baseline model training, model evaluation, and performance improvement through hyperparameter tuning.
 
-## Repository Name
-`decision-tree-car-evaluation-lab`
 
 ## Project Objective
 I build and evaluate a Decision Tree classifier for car acceptability prediction, and compare model behavior before and after hyperparameter optimization.
